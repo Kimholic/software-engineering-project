@@ -1,2 +1,6 @@
-# software-engineering-project
-Random Journey Generator System project for Software Engineering course
+# Random Journey Generator System
+
+Software Engineering Project
+
+## Description
+A system that generates random travel experiences based on user preferences.
